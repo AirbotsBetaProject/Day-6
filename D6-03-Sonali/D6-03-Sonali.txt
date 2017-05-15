@@ -1,0 +1,11 @@
+Workdone -:
+*Title - Weapon detection 
+*Data set collection and cleaning 
+*Collecting images from image.org
+     collecting negative images and positive images of weapon like rifle, handgunand knife.
+     converting into greyscale and 100X100 size images.
+* Defining ugly images in 'ugly'directory for cracked images and removing the file identical to our defined ugly images .
+  Reason - All the cracked file can be deleted at once.
+
+*Suggestions-  In addition of removing craked image we should remove images with white background for better efficiency.
+               Avoid the repeatation of same image named with different number.
